@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.0.2.0.QEBCNXM/miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.10.22/miui_VIOLET_20.10.22_367151adc1_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
-  ROM_AONLY: MI8SE_V12.0.2.0_aonly.7z
+  ROM_AONLY: VIOLET_20.10.22_aonly.7z
   ROM_AB: K20P_AB_20.7.16-eu.7z
 
 jobs:
