@@ -1,15 +1,15 @@
-name: miui_VIOLET_20.10.22_10.0
+name: miui_VIOLET_20.11.17_Q
 
 on:
   watch:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.10.22/miui_VIOLET_20.10.22_367151adc1_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.11.17/miui_VIOLET_20.11.17_5ab70187a1_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
-  ROM_AONLY: VIOLET_20.10.22_aonly.7z
+  ROM_AONLY: VIOLET_20.11.17_aonly-Q.7z
   ROM_AB: K20P_AB_20.7.16-eu.7z
 
 jobs:
